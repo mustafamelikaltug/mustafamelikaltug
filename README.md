@@ -2,7 +2,7 @@
 <br>
 <p><img align="center" src="https://github.com/mustafamelikaltug/mustafamelikaltug/assets/130696468/0d261f2e-9da5-4b1b-a6d9-a71f915a99bb" /></p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Code+Latin&weight=600&size=30&duration=3000&pause=1000&color=F7D802&center=true&vCenter=true&random=false&width=500&height=70&lines=+Hi+There!+👋;+I'm+Mustafa+Melik+Altuğ!;+An+Android+Developer!+👨🏻‍💻" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Code+Latin&weight=600&size=30&duration=3000&pause=1000&color=F7D802&center=true&vCenter=true&random=false&width=500&height=70&lines=+Hi+There!+👋;+I'm+Mustafa+Melik+Altuğ!;+An+Android+Developer!+👨🏻‍💻;Thanks+for+visiting!+✌️;Send+me+message+on+LinkedIn!;I'm+waiting+for+collab!😊" />
 </h1>
 
 <div align="center">
@@ -50,6 +50,3 @@
 </div>
   <hr>
   <br>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Code+Latin&weight=600&size=30&duration=3000&pause=1000&color=F7D802&center=true&vCenter=true&random=false&width=700&height=70&lines=Thanks+for+visiting!+✌️;Send+me+message+on+LinkedIn!;I'm+waiting+for+collab!😊" />
-</h1>
